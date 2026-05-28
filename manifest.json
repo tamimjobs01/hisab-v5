@@ -1,0 +1,17 @@
+{
+  "name": "Expense Tracker PWA",
+  "short_name": "Expenses",
+  "description": "A modern, offline-first expense tracker with budget system and calculator.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
